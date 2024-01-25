@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <h3 align="center">A passionate Quant.</h3>
 
-- 🔭 I’m currently working at **QuantConnect as a Quant Intern**
-
-- 🌱 I’m currently learning **LLM models and leveraging their capabilities.**
-
+- 🔭 I’m currently working at **QuantConnect as a Quantitative Developer**
 - 📫 How to reach me **aa2629@scarletmail.rutgers.edu**
 
 <h3 align="left">Connect with me:</h3>

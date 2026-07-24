@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <h3 align="center">A passionate Quant.</h3>
 
-- 🔭 I’m currently working at **Fidelity Digital Assets as a Senior Crypto Trading Analyst**
-- 📫 How to reach me **aa2629@scarletmail.rutgers.edu**
+- 🔭 I’m currently working at **Fidelity Quantitative Research and Technology**
+- 📫 How to reach me **ashutoshrana171@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
